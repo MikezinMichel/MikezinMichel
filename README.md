@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💜
 
-<!--
-**MikezinMichel/MikezinMichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Mike, tenho 15 anos e utilizo esse campo para me organizar e compartilhar projetos desenvolvidos.
 
-Here are some ideas to get you started:
+- Estou estudando no 1º Ano do Ensino Médio.
+- Gosto de escutar música de estilos diversos.
+- Gosto de jogar futebol e alguns jogos eletrônicos, como Valorant; FIFA; Anime Battle 4.3.
+- Escrevo histórias fictícias (atualmente eu estou escrevendo uma fanfic de futebol, me ajuda a esfriar a mente).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Caso queira entrar em contato comigo
+- email: gyutarouchiha123@gmail.com
+- instagram: @mike_bananao
+- discord: mikezindablaze.
+
+  ![](https://media1.tenor.com/m/7ZCukpSGjUwAAAAC/oliver-aiku-aiku-oliver.gif)
